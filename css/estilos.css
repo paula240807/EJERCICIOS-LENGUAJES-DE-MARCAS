@@ -1,0 +1,9 @@
+#tabla,th,td{
+    border: 1px solid black;
+}
+.datos{
+    background-color: rgb(45, 165, 165);
+}
+.total{
+    background-color: rgb(202, 139, 61);
+}
